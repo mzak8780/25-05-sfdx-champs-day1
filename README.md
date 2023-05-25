@@ -9,6 +9,7 @@ This is the git challenge of the workshop
   - Favourite Dish: ADD_ONE_FOOD_DISH_YOU_ENJOY
 2. Each Person create a new branch with the new file created with the text filled.
 3. Each member raises a pull request and seek getting your PR reviewed and approve and then merge.
+4. Add your name in the attendance sheet
 
 ## End Goal
 Have all team members have a text profile of themselves.
